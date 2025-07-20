@@ -353,7 +353,7 @@ function isolateNumberPlate(grayAxes)
 end
 ```
 
-**6-Stage Visualization Process:**
+**Stage Visualization Process:**
 1. **Filtered Image**: Noise-reduced version using median filtering
 2. **Binarized Image**: Black and white conversion using Otsu's method
 3. **Morphologically Processed**: Enhanced using opening and closing operations
