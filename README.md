@@ -1,6 +1,6 @@
 # Number Plate Recognition System
 
-*An intelligent computer vision system that detects and isolates vehicle license plates with precision.*
+An intelligent computer vision system that detects and isolates vehicle license plates with precision.
 
 ## 🎯 Project Overview
 This sophisticated MATLAB application harnesses the power of digital image processing to automatically detect, analyze, and extract vehicle license plates from digital photographs. Built with a comprehensive graphical user interface, the system transforms complex computer vision algorithms into an accessible tool for real-world applications.
